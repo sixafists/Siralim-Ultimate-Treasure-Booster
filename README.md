@@ -7,7 +7,7 @@ You'll then neeed to open the realm_prop_adjust.py in a text editor like notepad
 
 These are lines 5 and 6 of the realm_prop_adjust.py
 
-# Example : "C:\Users\admin\AppData\Local\SiralimUltimate\save\slot1.sav"
+Example : "C:\Users\admin\AppData\Local\SiralimUltimate\save\slot1.sav"
 SAVE_FILE_PATH = r"Save File Path Here"
 
 You just have to put the path for your save file you want modified in the quotation marks and save your changes.
