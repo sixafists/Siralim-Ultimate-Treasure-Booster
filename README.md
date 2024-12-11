@@ -14,3 +14,6 @@ You just have to put the path for your save file you want modified in the quotat
 
 How I use this is, double click the realm_prop_adjust.py to execute it, and then start playing. After I finish a realm, I go to Save & Restart in game, and while it's restarting, I double click to run the .py file again, and presto! The next realm has its modifiers changed.
 
+
+
+Most of the credit should go to Gurgalex as I used the code from his SiralimUltimateSaver in order to create this project. If you want to do this same kind of thing with a more step-by-step and hands on approach, head over to his at https://github.com/gurgalex/SiralimUltimateSaver.git
