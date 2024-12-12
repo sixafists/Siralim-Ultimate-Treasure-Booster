@@ -1,7 +1,7 @@
 # Siralim-Ultimate-Treasure-Booster
 A low involvement script that edits your save to make the realm modifiers go outside their normal values, resulting in a bunch of extra treasure.
 
-After downloading both the realm_prop_adjusd.py and encrypt_decrypt.js, put them both in your folder with your Siralim Save files. 
+After downloading both the realm_prop_adjust.py and encrypt_decrypt.js, put them both in your folder with your Siralim Save files. 
 
 You'll then neeed to open the realm_prop_adjust.py in a text editor like notepad, and edit the path of the file you want it to operate on. 
 
